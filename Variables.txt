@@ -1,0 +1,8 @@
+displayunitstatus=Damaged
+hotkeyprofile=1_NameRightSide
+LastCampaignId=1
+mastervolume=0.484000
+MeleeHelpIntroCount=3
+selectuncontrolable=1
+showmissiontime=1
+simplecommandcard=0

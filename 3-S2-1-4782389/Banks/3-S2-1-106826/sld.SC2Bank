@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="donotadjustbankfile">
+        <Key name="f2bv4a9r7">
+            <Value string="tn389czo4ejz74j"/>
+        </Key>
+        <Key name="eatyourshit">
+            <Value string="gofuckyourselfbitch"/>
+        </Key>
+        <Key name="ofk">
+            <Value string="sexsexsexonthebitch"/>
+        </Key>
+    </Section>
+    <Section name="1">
+        <Key name="ts">
+            <Value int="1786"/>
+        </Key>
+        <Key name="tp">
+            <Value int="1"/>
+        </Key>
+        <Key name="cl">
+            <Value int="1"/>
+        </Key>
+        <Key name="xp">
+            <Value string="000rd7"/>
+        </Key>
+        <Key name="tr">
+            <Value int="76"/>
+        </Key>
+    </Section>
+    <Section name="3">
+        <Key name="cha">
+            <Value string="00055"/>
+        </Key>
+        <Key name="min">
+            <Value string="000$5bc"/>
+        </Key>
+        <Key name="val">
+            <Value string="001!47827b"/>
+        </Key>
+    </Section>
+    <Section name="2">
+        <Key name="hd">
+            <Value string="00p#q+Tc67;eue3dvf"/>
+        </Key>
+    </Section>
+    <Signature value="7D1ECE86A4B244CBEB5D55FB554E27E56798FEED"/>
+</Bank>

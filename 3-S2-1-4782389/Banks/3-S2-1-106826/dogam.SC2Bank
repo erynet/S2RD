@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="achievement">
+        <Key name="save">
+            <Value string="000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
+        </Key>
+        <Key name="rnd">
+            <Value string="7660"/>
+        </Key>
+        <Key name="playername">
+            <Value text="ery"/>
+        </Key>
+    </Section>
+    <Signature value="4A39B16CC0989F925C3BCFCC22EC23F5EAC22571"/>
+</Bank>
