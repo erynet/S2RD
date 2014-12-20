@@ -188,7 +188,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="70">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="20">
             <Value flag="0"/>
@@ -316,7 +316,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="10">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2">
             <Value flag="0"/>
@@ -1028,18 +1028,18 @@
     </Section>
     <Section name="hisnum">
         <Key name="1">
-            <Value int="76"/>
+            <Value int="10"/>
         </Key>
         <Key name="2">
-            <Value int="54"/>
+            <Value int="70"/>
         </Key>
     </Section>
     <Section name="hissec">
         <Key name="1">
-            <Value int="2"/>
+            <Value int="6"/>
         </Key>
         <Key name="2">
-            <Value int="2"/>
+            <Value int="4"/>
         </Key>
     </Section>
     <Section name="7">
@@ -1540,5 +1540,5 @@
             <Value flag="0"/>
         </Key>
     </Section>
-    <Signature value="E40768F57EA529EB0226E46E35AFA0CBE442570D"/>
+    <Signature value="BD510131BE77340C38288FE41D8375C87A1CE89C"/>
 </Bank>
