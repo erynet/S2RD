@@ -682,7 +682,7 @@
     </Section>
     <Section name="skin">
         <Key name="num">
-            <Value int="126"/>
+            <Value int="128"/>
         </Key>
     </Section>
     <Section name="skinh40">
@@ -12005,5 +12005,5 @@
             <Value int="175714"/>
         </Key>
     </Section>
-    <Signature value="9014B91084281F5E0E260B1B522F1CE78B0E9C98"/>
+    <Signature value="EF1472B6A0A29401DE4117C8436D39F45FFB6D11"/>
 </Bank>
