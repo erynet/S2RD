@@ -89,7 +89,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="65">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="44">
             <Value flag="0"/>
@@ -261,6 +261,14 @@
         </Key>
         <Key name="5">
             <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="galnum">
+        <Key name="1">
+            <Value int="45"/>
+        </Key>
+        <Key name="0">
+            <Value int="45"/>
         </Key>
     </Section>
     <Section name="6">
@@ -453,7 +461,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="32">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="15">
             <Value flag="0"/>
@@ -528,7 +536,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="10">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="64">
             <Value flag="0"/>
@@ -620,7 +628,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="46">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="41">
             <Value flag="1"/>
@@ -1028,10 +1036,10 @@
     </Section>
     <Section name="hisnum">
         <Key name="1">
-            <Value int="45"/>
+            <Value int="46"/>
         </Key>
         <Key name="2">
-            <Value int="18"/>
+            <Value int="65"/>
         </Key>
     </Section>
     <Section name="hissec">
@@ -1039,7 +1047,15 @@
             <Value int="3"/>
         </Key>
         <Key name="2">
-            <Value int="5"/>
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="galsec">
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+        <Key name="0">
+            <Value int="3"/>
         </Key>
     </Section>
     <Section name="7">
@@ -1295,10 +1311,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="1">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="3">
             <Value flag="0"/>
+        </Key>
+        <Key name="0">
+            <Value flag="1"/>
         </Key>
         <Key name="2">
             <Value flag="0"/>
@@ -1540,5 +1559,5 @@
             <Value flag="0"/>
         </Key>
     </Section>
-    <Signature value="9A7B6AC72E6A7A08E05AAC2C9BDDECF00E7C3593"/>
+    <Signature value="A5C7442D32ECF6D79D384DA5C22001A737F6A769"/>
 </Bank>
