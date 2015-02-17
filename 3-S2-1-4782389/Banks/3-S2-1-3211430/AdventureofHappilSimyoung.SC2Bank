@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Bank version="1">
-    <Section name="cleared">
-        <Key name="b">
-            <Value string="1"/>
-        </Key>
-    </Section>
-</Bank>

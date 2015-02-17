@@ -8,7 +8,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="38">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="14">
             <Value flag="0"/>
@@ -76,6 +76,9 @@
         <Key name="8">
             <Value flag="1"/>
         </Key>
+        <Key name="95">
+            <Value flag="0"/>
+        </Key>
         <Key name="90">
             <Value flag="0"/>
         </Key>
@@ -116,6 +119,9 @@
             <Value flag="0"/>
         </Key>
         <Key name="82">
+            <Value flag="0"/>
+        </Key>
+        <Key name="93">
             <Value flag="0"/>
         </Key>
         <Key name="51">
@@ -182,7 +188,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="26">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="84">
             <Value flag="0"/>
@@ -195,6 +201,9 @@
         </Key>
         <Key name="10">
             <Value flag="1"/>
+        </Key>
+        <Key name="94">
+            <Value flag="0"/>
         </Key>
         <Key name="88">
             <Value flag="0"/>
@@ -263,15 +272,82 @@
             <Value flag="0"/>
         </Key>
     </Section>
-    <Section name="galnum">
-        <Key name="1">
-            <Value int="45"/>
-        </Key>
-        <Key name="0">
-            <Value int="45"/>
-        </Key>
-    </Section>
     <Section name="6">
+        <Key name="38">
+            <Value flag="0"/>
+        </Key>
+        <Key name="14">
+            <Value flag="0"/>
+        </Key>
+        <Key name="49">
+            <Value flag="0"/>
+        </Key>
+        <Key name="41">
+            <Value flag="0"/>
+        </Key>
+        <Key name="28">
+            <Value flag="0"/>
+        </Key>
+        <Key name="25">
+            <Value flag="0"/>
+        </Key>
+        <Key name="40">
+            <Value flag="0"/>
+        </Key>
+        <Key name="30">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="39">
+            <Value flag="0"/>
+        </Key>
+        <Key name="35">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="43">
+            <Value flag="0"/>
+        </Key>
+        <Key name="44">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="48">
+            <Value flag="0"/>
+        </Key>
+        <Key name="32">
+            <Value flag="0"/>
+        </Key>
+        <Key name="15">
+            <Value flag="0"/>
+        </Key>
+        <Key name="51">
+            <Value flag="0"/>
+        </Key>
+        <Key name="36">
+            <Value flag="0"/>
+        </Key>
+        <Key name="34">
+            <Value flag="0"/>
+        </Key>
+        <Key name="22">
+            <Value flag="0"/>
+        </Key>
+        <Key name="33">
+            <Value flag="0"/>
+        </Key>
         <Key name="31">
             <Value flag="0"/>
         </Key>
@@ -281,19 +357,10 @@
         <Key name="16">
             <Value flag="0"/>
         </Key>
-        <Key name="14">
-            <Value flag="0"/>
-        </Key>
         <Key name="4">
             <Value flag="0"/>
         </Key>
-        <Key name="28">
-            <Value flag="0"/>
-        </Key>
-        <Key name="25">
-            <Value flag="0"/>
-        </Key>
-        <Key name="30">
+        <Key name="46">
             <Value flag="0"/>
         </Key>
         <Key name="9">
@@ -302,10 +369,10 @@
         <Key name="19">
             <Value flag="0"/>
         </Key>
-        <Key name="6">
+        <Key name="54">
             <Value flag="0"/>
         </Key>
-        <Key name="1">
+        <Key name="47">
             <Value flag="0"/>
         </Key>
         <Key name="3">
@@ -320,13 +387,10 @@
         <Key name="20">
             <Value flag="0"/>
         </Key>
-        <Key name="8">
+        <Key name="10">
             <Value flag="0"/>
         </Key>
-        <Key name="10">
-            <Value flag="1"/>
-        </Key>
-        <Key name="2">
+        <Key name="45">
             <Value flag="0"/>
         </Key>
         <Key name="23">
@@ -335,19 +399,28 @@
         <Key name="21">
             <Value flag="0"/>
         </Key>
-        <Key name="11">
+        <Key name="50">
             <Value flag="0"/>
         </Key>
-        <Key name="15">
+        <Key name="37">
+            <Value flag="0"/>
+        </Key>
+        <Key name="52">
             <Value flag="0"/>
         </Key>
         <Key name="7">
             <Value flag="0"/>
         </Key>
-        <Key name="24">
+        <Key name="55">
             <Value flag="0"/>
         </Key>
-        <Key name="22">
+        <Key name="53">
+            <Value flag="0"/>
+        </Key>
+        <Key name="42">
+            <Value flag="0"/>
+        </Key>
+        <Key name="24">
             <Value flag="0"/>
         </Key>
         <Key name="17">
@@ -380,13 +453,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="60">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="49">
             <Value flag="0"/>
         </Key>
         <Key name="41">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="25">
             <Value flag="0"/>
@@ -401,7 +474,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="30">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="6">
             <Value flag="1"/>
@@ -425,16 +498,16 @@
             <Value flag="0"/>
         </Key>
         <Key name="59">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="35">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="8">
             <Value flag="1"/>
         </Key>
         <Key name="62">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="2">
             <Value flag="1"/>
@@ -455,13 +528,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="61">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="48">
             <Value flag="0"/>
         </Key>
         <Key name="32">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="15">
             <Value flag="0"/>
@@ -470,13 +543,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="51">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="36">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="34">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="22">
             <Value flag="0"/>
@@ -485,10 +558,10 @@
             <Value flag="0"/>
         </Key>
         <Key name="33">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="31">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="16">
             <Value flag="0"/>
@@ -497,7 +570,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="46">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="71">
             <Value flag="0"/>
@@ -515,7 +588,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="54">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="47">
             <Value flag="0"/>
@@ -542,7 +615,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="45">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="23">
             <Value flag="0"/>
@@ -557,16 +630,16 @@
             <Value flag="0"/>
         </Key>
         <Key name="50">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="37">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="80">
             <Value flag="0"/>
         </Key>
         <Key name="52">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="7">
             <Value flag="1"/>
@@ -575,13 +648,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="55">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="53">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="42">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="24">
             <Value flag="0"/>
@@ -599,10 +672,10 @@
             <Value flag="0"/>
         </Key>
         <Key name="63">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="56">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="18">
             <Value flag="0"/>
@@ -628,10 +701,10 @@
             <Value flag="1"/>
         </Key>
         <Key name="46">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="41">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="28">
             <Value flag="0"/>
@@ -640,9 +713,12 @@
             <Value flag="0"/>
         </Key>
         <Key name="40">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="30">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
             <Value flag="0"/>
         </Key>
         <Key name="19">
@@ -655,7 +731,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="47">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="39">
             <Value flag="0"/>
@@ -669,29 +745,29 @@
         <Key name="26">
             <Value flag="0"/>
         </Key>
-        <Key name="8">
-            <Value flag="1"/>
-        </Key>
         <Key name="35">
             <Value flag="0"/>
         </Key>
         <Key name="20">
             <Value flag="0"/>
         </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
         <Key name="2">
             <Value flag="1"/>
         </Key>
         <Key name="45">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="43">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="23">
             <Value flag="0"/>
         </Key>
         <Key name="44">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="21">
             <Value flag="1"/>
@@ -756,7 +832,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="49">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="41">
             <Value flag="0"/>
@@ -765,10 +841,10 @@
             <Value flag="0"/>
         </Key>
         <Key name="25">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="77">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="57">
             <Value flag="0"/>
@@ -777,19 +853,19 @@
             <Value flag="0"/>
         </Key>
         <Key name="30">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="6">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="1">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="91">
             <Value flag="0"/>
         </Key>
         <Key name="76">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="73">
             <Value flag="0"/>
@@ -798,7 +874,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="81">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="66">
             <Value flag="0"/>
@@ -807,13 +883,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="59">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="35">
             <Value flag="0"/>
         </Key>
         <Key name="8">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="95">
             <Value flag="0"/>
@@ -837,7 +913,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="11">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="85">
             <Value flag="0"/>
@@ -849,13 +925,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="48">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="32">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="15">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="82">
             <Value flag="0"/>
@@ -870,7 +946,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="34">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="22">
             <Value flag="0"/>
@@ -879,10 +955,10 @@
             <Value flag="0"/>
         </Key>
         <Key name="33">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="31">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="29">
             <Value flag="0"/>
@@ -891,7 +967,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="4">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="46">
             <Value flag="0"/>
@@ -903,13 +979,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="71">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="9">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="69">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="68">
             <Value flag="0"/>
@@ -921,31 +997,31 @@
             <Value flag="0"/>
         </Key>
         <Key name="54">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="47">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="3">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="27">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="26">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="84">
             <Value flag="0"/>
         </Key>
         <Key name="70">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="20">
             <Value flag="0"/>
         </Key>
         <Key name="10">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="94">
             <Value flag="0"/>
@@ -966,7 +1042,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="74">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="21">
             <Value flag="0"/>
@@ -978,25 +1054,25 @@
             <Value flag="0"/>
         </Key>
         <Key name="37">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="80">
             <Value flag="0"/>
         </Key>
         <Key name="52">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="7">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="75">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="55">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="53">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="42">
             <Value flag="0"/>
@@ -1005,13 +1081,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="17">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="13">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="12">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="67">
             <Value flag="0"/>
@@ -1026,7 +1102,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="5">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
     </Section>
     <Section name="hisex">
@@ -1039,10 +1115,10 @@
     </Section>
     <Section name="hisnum">
         <Key name="1">
-            <Value int="1"/>
+            <Value int="70"/>
         </Key>
         <Key name="2">
-            <Value int="8"/>
+            <Value int="69"/>
         </Key>
     </Section>
     <Section name="hissec">
@@ -1050,15 +1126,7 @@
             <Value int="4"/>
         </Key>
         <Key name="2">
-            <Value int="3"/>
-        </Key>
-    </Section>
-    <Section name="galsec">
-        <Key name="1">
-            <Value int="3"/>
-        </Key>
-        <Key name="0">
-            <Value int="3"/>
+            <Value int="4"/>
         </Key>
     </Section>
     <Section name="7">
@@ -1314,13 +1382,10 @@
             <Value flag="0"/>
         </Key>
         <Key name="1">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="3">
             <Value flag="0"/>
-        </Key>
-        <Key name="0">
-            <Value flag="1"/>
         </Key>
         <Key name="2">
             <Value flag="0"/>
@@ -1367,7 +1432,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="1">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="76">
             <Value flag="1"/>
@@ -1394,7 +1459,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="2">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="43">
             <Value flag="0"/>
@@ -1409,7 +1474,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="61">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="48">
             <Value flag="0"/>
@@ -1439,13 +1504,13 @@
             <Value flag="0"/>
         </Key>
         <Key name="31">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="16">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="4">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="46">
             <Value flag="0"/>
@@ -1472,7 +1537,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="3">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="27">
             <Value flag="0"/>
@@ -1550,17 +1615,17 @@
             <Value flag="0"/>
         </Key>
         <Key name="63">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="56">
             <Value flag="0"/>
         </Key>
         <Key name="18">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="5">
             <Value flag="0"/>
         </Key>
     </Section>
-    <Signature value="F6660126290EBB436FBED10E0FE294069E6A66E7"/>
+    <Signature value="81D3BBEA326DC41785F9C7A333F751F6F9E6B593"/>
 </Bank>
